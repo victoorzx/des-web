@@ -1,5 +1,3 @@
-# des-web
- esse repositório é utilizado para des web
  # 📚 Projeto de Desenvolvimento Web
 
 Bem-vindo ao repositório do meu projeto de desenvolvimento web! Este projeto faz parte de uma disciplina onde estou aprendendo as bases de desenvolvimento web. Abaixo, você encontrará informações sobre as tecnologias que estou estudando e os objetivos que pretendo alcançar com este projeto.
