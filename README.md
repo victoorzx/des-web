@@ -16,9 +16,9 @@ Neste repositório, estou explorando e praticando as seguintes tecnologias:
 
 Aqui está uma lista das metas que estou trabalhando para alcançar:
 
-- [x ] Aprender e dominar HTML para criar estruturas de páginas web semânticas e acessíveis.
-- [x ] Aplicar CSS para estilizar páginas, incluindo layouts responsivos e design moderno.
-- [ ] Implementar funcionalidades dinâmicas e interativas com JavaScript, incluindo manipulação do DOM e eventos.
+- [x ]  Aprender e dominar HTML para criar estruturas de páginas web semânticas e acessíveis.
+- [x ]  Aplicar CSS para estilizar páginas, incluindo layouts responsivos e design moderno.
+- [ ]   Implementar funcionalidades dinâmicas e interativas com JavaScript, incluindo manipulação do DOM e eventos.
 
 ## 💡 Como Contribuir
 
